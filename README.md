@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashwani Kumar Pankaj</h1>
 <h3 align="center">Aspiring MERN stack developer.</h3>
+<p align='center'><samp>
+I'm a React Developer with proficiency in Data Structures Algorithms Express and MogoDB who enjoys making web application and learning new technology.
+</samp></p>
  <h5 align='center'><samp><a href="https://ashwanipankaj.netlify.app/">Portfolio</a></samp></h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikpankaj&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikpankaj" /> </p>
